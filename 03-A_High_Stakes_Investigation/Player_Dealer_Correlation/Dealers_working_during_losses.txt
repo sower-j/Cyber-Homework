@@ -1,0 +1,15 @@
+Date: 310 || Time: 05:00:00 AM || Dealer: Billy Jones
+Date: 310 || Time: 08:00:00 AM || Dealer: Billy Jones
+Date: 310 || Time: 02:00:00 PM || Dealer: Billy Jones
+Date: 310 || Time: 08:00:00 PM || Dealer: Billy Jones
+Date: 310 || Time: 11:00:00 PM || Dealer: Billy Jones
+Date: 312 || Time: 05:00:00 AM || Dealer: Billy Jones
+Date: 312 || Time: 08:00:00 AM || Dealer: Billy Jones
+Date: 312 || Time: 02:00:00 PM || Dealer: Billy Jones
+Date: 312 || Time: 08:00:00 PM || Dealer: Billy Jones
+Date: 312 || Time: 11:00:00 PM || Dealer: Billy Jones
+Date: 315 || Time: 05:00:00 AM || Dealer: Billy Jones
+Date: 315 || Time: 08:00:00 AM || Dealer: Billy Jones
+Date: 315 || Time: 02:00:00 PM || Dealer: Billy Jones
+
+(I developed this format because I felt it was more human readable and appropriate for a report as opposed to the raw data format found in the logs)

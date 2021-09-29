@@ -1,0 +1,17 @@
+Date: 310 || Time: 05:00:00 AM || Dealer: Billy Jones
+Date: 310 || Time: 08:00:00 AM || Dealer: Billy Jones
+Date: 310 || Time: 02:00:00 PM || Dealer: Billy Jones
+Date: 310 || Time: 08:00:00 PM || Dealer: Billy Jones
+Date: 310 || Time: 11:00:00 PM || Dealer: Billy Jones
+Date: 312 || Time: 05:00:00 AM || Dealer: Billy Jones
+Date: 312 || Time: 08:00:00 AM || Dealer: Billy Jones
+Date: 312 || Time: 02:00:00 PM || Dealer: Billy Jones
+Date: 312 || Time: 08:00:00 PM || Dealer: Billy Jones
+Date: 312 || Time: 11:00:00 PM || Dealer: Billy Jones
+Date: 315 || Time: 05:00:00 AM || Dealer: Billy Jones
+Date: 315 || Time: 08:00:00 AM || Dealer: Billy Jones
+Date: 315 || Time: 02:00:00 PM || Dealer: Billy Jones
+
+Billy Jones was the roulette dealer during all 13 major losses
+
+(I wrote my script before making the "Dealers_working_during_losses which is why the files are essentially the same)
