@@ -84,7 +84,7 @@ Step 4: Lynis Auditing
 
 Screenshot of report output:
 
-![](./images/image1.png)
+![image1](./images/image1.png)
 
 Bonus
 
@@ -98,7 +98,8 @@ Bonus
 harden the system.
 
 Screenshot of end of sample output:
-![](./images/image2.png)
+
+![image2](./images/image2.png)
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights
 Reserved.
