@@ -138,7 +138,7 @@ Before getting started, you should verify that you do not have any instances of 
 
 #### Enable and start `firewalld`
 
-By default, these service should be running. If not, then run the following commands:
+By default, these services should be running. If not, then run the following commands:
 
 - Run the commands that enable and start `firewalld` upon boots and reboots.
 
@@ -399,7 +399,7 @@ Now, we will work on another lab. Before you start, complete the following revie
 
     5. A hacktivist organization successfully performs a DDoS attack, taking down a government website.
 
-        Answer: technical netwrok
+        Answer: technical network
 
     6. Data is classified at the wrong classification level.
 
@@ -430,7 +430,7 @@ Now, we will work on another lab. Before you start, complete the following revie
 
 1. Which type of firewall verifies the three-way TCP handshake? TCP handshake checks are designed to ensure that session packets are from legitimate sources.
 
-  Answer: Circut Level Gateway
+  Answer: Circuit Level Gateway
 
 
 2. Which type of firewall considers the connection as a whole? Meaning, instead of looking at only individual packets, these firewalls look at whole streams of packets at one time.
