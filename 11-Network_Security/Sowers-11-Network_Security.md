@@ -313,7 +313,7 @@ Now, we'll want to provide truncated listings of all currently **active** zones.
 
 #### Block Ping/ICMP Requests
 
-Harden your network against `ping` scans by blocking `icmp ehco` replies.
+Harden your network against `ping` scans by blocking `icmp echo` replies.
 
 - Run the command that blocks `pings` and `icmp` requests in your `public` zone.
 

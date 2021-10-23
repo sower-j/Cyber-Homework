@@ -50,7 +50,7 @@
   www.theforce.net	canonical name = theforce.net
   ```
 
-- This shows that the DNS CNAME record does not include any refrences of "resistance.theforce.net" and is therefore not being redirected to "www.theforce.net"
+- This shows that the DNS CNAME record does not include any references of "resistance.theforce.net" and is therefore not being redirected to "www.theforce.net"
 
 - to resolve this issue the a redirect should be added to the DNS record as follows:
 
@@ -90,13 +90,13 @@
 
 ### Mission 6 ###
 
-- Opening Darkside.pcap in wireshark shows that all of their wirless traffic is encripted and a key needs to be optained
+- Opening Darkside.pcap in wireshark shows that all of their wireless traffic is encrypted and a key needs to be obtained
 
 - Before attempting to find a key I would like to find the network SSID. I found this through the broadcast in packet 9. Looking in `IEEE 802.11 Wireless Management > Tagged Parameters` the SSID can be seen as `linksys`
 
-- Next I ran `aircrack-ng -w /usr/share/wordlist/rockyou.txt ~/Homework09/Darkside.pcap` to find the decription key `dictionary`
+- Next I ran `aircrack-ng -w /usr/share/wordlist/rockyou.txt ~/Homework09/Darkside.pcap` to find the decryption key `dictionary`
 
-- In wireshard I enabled deciption with the following: `Preferences > Protocols > IEEE 802.11 > Enable Decryption > Decryption Keys > Edit > wpa-pwd key=dictionary:linksys`
+- In wireshard I enabled decryption with the following: `Preferences > Protocols > IEEE 802.11 > Enable Decryption > Decryption Keys > Edit > wpa-pwd key=dictionary:linksys`
 
 - Packets 312-315 a two MAC and IP addresses of note:
 

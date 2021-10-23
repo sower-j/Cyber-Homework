@@ -132,7 +132,7 @@ DealerInfo(){
 	read -p "AM or PM : " ap
 	read -p "Game (1 = Blackjack, 2 = Roulette, 3 = Texas Hold Em) : " game
 
-# This part is quite fragile becasue I did not put in any checks on user input
+# This part is quite fragile because I did not put in any checks on user input
 # For example, if the user  inputs military time (13:00:00) this script will not work and will simply not find anything
 
 	case "$game" in

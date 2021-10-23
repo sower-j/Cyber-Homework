@@ -71,6 +71,6 @@ As indicated by the riddle, I downloaded the image and used steghide to extract 
 
 ![steghide-output](./images/steghide-output.jpg)
 
-After going back to the Ransomware decrypter tab on the website and entering the keys obtained from each riddle you reach the deliverable for the homework
+After going back to the Ransomware decrypted tab on the website and entering the keys obtained from each riddle you reach the deliverable for the homework
 
 ![Sowers-10-Ransomware_Riddles.png](./Sowers-10-Ransomware_Riddles.png)

@@ -8,7 +8,7 @@
 
     c.  Malware attacks are also a major threat when devices are connected to networks outside of the company's network.
 
-2.  Prefered employee behavior for each of the above scenarios would be :
+2.  Preferred employee behavior for each of the above scenarios would be :
 
     d.  If employees must access or retrieve work information while using personal devices it would be preferred that they use SSH, or a VPN to connect to the network and SFTP to retrieve said information.
 
