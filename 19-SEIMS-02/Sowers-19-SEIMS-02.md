@@ -23,7 +23,7 @@
 
     > **As suggested above, a VPN would help mitigate this type of attack because it would allow you to block all login attempts that are not secured through the VPN.**
 
-    > **Another possibility would be to block temporarily block IP address that are making fast, concurrent login attempts before the user is locked out.**
+    > **Another possibility would be to temporarily block IP addresses that are making fast, concurrent login attempts before the user is locked out.**
 
 ---
 
@@ -45,4 +45,4 @@
 
   - What other rules can you create to protect VSI from attacks against your webserver?
 
-    > **Block any IP address that attempt multiple login attempts via `VSI_Account_logon.php` in a short amount of time.**
+    > **Block any IP address that attempts multiple login attempts via `VSI_Account_logon.php` in a short amount of time.**
